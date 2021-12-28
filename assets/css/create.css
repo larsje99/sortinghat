@@ -1,0 +1,97 @@
+body {
+    background-image: url(../images/TZtkqg.png);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.box {
+    position: relative;
+    background-color: #AF9272;
+    padding: 325px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.header {
+    font-family: 'Vujahday Script';
+    text-decoration: underline;
+    font-size: 50px;
+    color: goldenrod;
+    position: absolute;
+    top: 5px;
+    right: 500px;
+}
+
+.inputname {
+    font-family: 'Vujahday Script';
+    text-decoration: underline;
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    top: 150px;
+    right: 690px;
+}
+
+.inputfield1 {
+    position: absolute;
+    top: 180px;
+    right: 595px;
+}
+
+.inputage {
+    font-family: 'Vujahday Script';
+    text-decoration: underline;
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    top: 230px;
+    right: 730px;
+}
+
+.inputfield2 {
+    position: absolute;
+    top: 260px;
+    right: 595px;
+}
+
+.genderText {
+    font-family: 'Vujahday Script';
+    text-decoration: underline;
+    font-size: 21px;
+    color: black;
+    position: absolute;
+    top: 310px;
+    right: 670px;
+}
+
+.buttonsubmit {
+    font-family: 'Vujahday Script';
+    font-size: 25px;
+    position: absolute;
+    border: 4px solid black;
+    border-radius: 5%;
+    background-color: #632C09;
+    color: goldenrod;
+    height: 80px;
+    width: 220px;
+    left: 55px;
+    top: 475px;
+}
+
+.buttonsubmit:hover {
+    background-color: black;
+}
+
+.image1 {
+    position: absolute;
+    right: 150px;
+    bottom: -4px;
+}
+
+.image2 {
+    position: absolute;
+    right: 150px;
+    top: 0px;
+}

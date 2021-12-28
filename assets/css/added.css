@@ -1,0 +1,64 @@
+body {
+    background-image: url(../images/TZtkqg.png);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.box {
+    position: relative;
+    background-color: #AF9272;
+    padding: 325px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.header {
+    font-family: 'Vujahday Script';
+    text-decoration: underline;
+    font-size: 35px;
+    color: goldenrod;
+    position: absolute;
+    top: 5px;
+    right: 500px;
+}
+
+.image1 {
+    position: absolute;
+    right: 150px;
+    bottom: -4px;
+}
+
+.image2 {
+    position: absolute;
+    right: 150px;
+    top: 0px;
+}
+
+nav #returnButton {
+    font-family: 'Vujahday Script';
+    font-size: 23px;
+    position: absolute;
+    border: 4px solid black;
+    border-radius: 5%;
+    background-color: #632C09;
+    color: goldenrod;
+    padding: 20px 40px;
+    left: 190px;
+    bottom: 55px;
+}
+
+nav {
+    text-align: center;
+}
+
+#returnButton:hover {
+    background-color: black;
+}
+
+.imageAdded {
+    position: absolute;
+    left: 148px;
+    bottom: 250px;
+}
